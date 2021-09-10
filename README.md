@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgyannainglin
 - 👀 I’m interested in Devops,coding
-- 👨🏽‍💻 I'm currently working as a System Engineer (including storage,both virtualizatoin and cloud infra, microservice and its' system related components ) at Finical Sector
+- 👨🏽‍💻 I'm currently working as a System Engineer (including storage,virtualizatoin and cloud infra, microservice and its' system related components ) at Finical Sector
 - 🌱 I’m currently learning Devops and application architecture
 - 📫 You can reach me via "yannainglin41@gmail.com"
 
