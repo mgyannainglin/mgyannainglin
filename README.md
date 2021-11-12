@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgyannainglin and quick learner. Happy to learn new things.
+- 👋 Hi, I’m @mgyannainglin and quick learner. Happy to learn new things and help peopel with my littel knowledge.
 - 👀 I’m interested in Devops and coding.
 - 👨🏽‍💻 I'm currently working as a System Engineer (taking care for storage,virtualizatoin and cloud infra, microservice and its' system related components ) at Finical Sector.
 - 🌱 I’m currently learning Devops, application and cloud architecture.
