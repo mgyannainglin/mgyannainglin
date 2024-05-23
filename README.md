@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mgyannainglin and quick learner. Happy to learn new things and help people with my little knowledge.
-
+- 👋 Hi, I’m @mgyannainglin and just a ordinary person who passionate about technology.
 
 <!---
 mgyannainglin/mgyannainglin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
