@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mgyannainglin and just a ordinary person who passionate about technology.
+- 👋 Hi, I’m @mgyannainglin. j
+- Just a ordinary person who passionate about technology.
 
 <!---
 mgyannainglin/mgyannainglin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
