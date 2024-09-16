@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgyannainglin. j
+- 👋 Hi, I’m @mgyannainglin.
 - Just a ordinary person who passionate about technology.
 
 <!---
